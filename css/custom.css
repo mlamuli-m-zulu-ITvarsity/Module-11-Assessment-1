@@ -31,6 +31,10 @@ a{
   float: right;
 }
 
+.team {
+  color: white;
+}
+
 @media (min-width: 1200px) {
   .feature-heading {
     margin-top: 10rem;
